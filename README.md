@@ -1,4 +1,4 @@
-# ANNADAATA - Food Donation Management System
+# AANASETU - Food Donation Management System
 
  
 
@@ -6,9 +6,9 @@
 
 ## **Introduction**
 
-Annadaata is a Food Donation Management System designed to facilitate the collection and distribution of surplus food to those in need. Our goal is to minimize food waste and help feed the hungry by connecting donors with food banks and shelters.
-## **Screenshot**
-Here are some screenshots of ANNADAATA website in action:
+ANNASETU is a Food Donation Management System designed to facilitate the collection and distribution of surplus food to those in need. Our goal is to minimize food waste and help feed the hungry by connecting donors with food banks and shelters.
+<!-- ## **Screenshot** -->
+Here are some screenshots of ANNASETU website in action:
 
 - **Home Page**
  ![Screenshot 2024-06-19 132140](https://github.com/adiitya24/ANNADAATA/assets/124274939/3dee38d1-a40b-4bda-ac26-f71f41b0679e)
@@ -132,5 +132,5 @@ The system consists of three types of users: admins, donors, and agents.
 - **dotenv**
 
 ## **Contact**
-- Email : adityachoudhary.ir@gmail.com
-- Linkedin : https://www.linkedin.com/in/aditya-choudhary-91719322a/
+- Email : prashantlodh67@gmail.com
+- Linkedin : https://www.linkedin.com/in/prashant-lodh/
