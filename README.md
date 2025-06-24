@@ -8,7 +8,7 @@
 
 ANNASETU is a Food Donation Management System designed to facilitate the collection and distribution of surplus food to those in need. Our goal is to minimize food waste and help feed the hungry by connecting donors with food banks and shelters.
 <!-- ## **Screenshot** -->
-Here are some screenshots of ANNASETU website in action:
+<!-- Here are some screenshots of ANNASETU website in action:
 
 - **Home Page**
  ![Screenshot 2024-06-19 132140](https://github.com/adiitya24/ANNADAATA/assets/124274939/3dee38d1-a40b-4bda-ac26-f71f41b0679e)
@@ -70,7 +70,7 @@ Here are some screenshots of ANNASETU website in action:
   ![Screenshot 2024-06-19 152946](https://github.com/adiitya24/ANNADAATA/assets/124274939/1664fc98-2724-4181-a9ea-d8f5a9d36084)
 
 - **Previous Collections**
-  ![Screenshot 2024-06-19 153024](https://github.com/adiitya24/ANNADAATA/assets/124274939/3af6c0ab-ef5c-4137-8bb0-259a0465e933)
+  ![Screenshot 2024-06-19 153024](https://github.com/adiitya24/ANNADAATA/assets/124274939/3af6c0ab-ef5c-4137-8bb0-259a0465e933) -->
 
 
 ## **Features**
